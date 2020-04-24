@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Mutability",""],["TypeBound",""],["TypeRef","Compare ty::Ty"]]});

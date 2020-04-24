@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DiagnosticSink",""]],"trait":[["AstDiagnostic",""],["Diagnostic",""]]});

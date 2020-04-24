@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Definition",""],["NameClass",""],["NameRefClass",""]],"fn":[["classify_name",""],["classify_name_ref",""]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ArenaMap","A map from arena IDs to some other type. Space requirement is O(highest ID)."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["FilesWatcher",""],["RustfmtConfig",""]],"struct":[["ClientCapsConfig",""],["Config",""],["FilesConfig",""],["NotificationsConfig",""]]});

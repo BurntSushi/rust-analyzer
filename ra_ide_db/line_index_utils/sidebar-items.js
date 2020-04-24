@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["translate_offset_with_edit",""]]});

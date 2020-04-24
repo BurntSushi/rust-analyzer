@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["compute_ws",""],["extract_trivial_expression",""],["leading_indent","If the node is on the beginning of the line, calculate indent."],["reindent",""],["unwrap_trivial_block",""]]});

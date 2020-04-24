@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["ra_proc_macro"] = [{"text":"impl <a class=\"trait\" href=\"ra_tt/trait.TokenExpander.html\" title=\"trait ra_tt::TokenExpander\">TokenExpander</a> for <a class=\"struct\" href=\"ra_proc_macro/struct.ProcMacroProcessExpander.html\" title=\"struct ra_proc_macro::ProcMacroProcessExpander\">ProcMacroProcessExpander</a>","synthetic":false,"types":["ra_proc_macro::ProcMacroProcessExpander"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

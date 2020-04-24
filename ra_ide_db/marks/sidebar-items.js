@@ -1,0 +1,1 @@
+initSidebarItems({"static":[["goto_def_for_field_init_shorthand",""],["goto_def_for_fields",""],["goto_def_for_macros",""],["goto_def_for_methods",""],["goto_def_for_record_field_pats",""],["goto_def_for_record_fields",""],["search_filters_by_range",""]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["HirDisplayWrapper",""],["HirFormatter",""]],"trait":[["HirDisplay",""]]});
